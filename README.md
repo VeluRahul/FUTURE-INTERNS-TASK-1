@@ -48,7 +48,7 @@ Copy code
 
  **Clone the repository**
    ```bash
-   git clone https://github.com/vaibhavbaranwal15/FUTURE_FS_01.git
+git clone https://github.com/VeluRahul/FUTURE-INTERNS-TASK-1
 
 
 📄 License
